@@ -1,0 +1,23 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "\"Allows user to store and delete notes\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "khclark4",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khclark4/NoteTaker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/khclark4/NoteTaker/issues"
+  },
+  "homepage": "https://github.com/khclark4/NoteTaker#readme"
+}
